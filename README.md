@@ -1,1 +1,1 @@
-https://tcshun.github.com/bus42/index.html
+https://tcshun.github.io/bus42/index.html
